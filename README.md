@@ -1,7 +1,7 @@
 # hillersee.com
 
 Hillers Electrical Engineering, Inc. — company website. Static HTML/CSS, no JavaScript, no build step.
-Hosted free on GitHub Pages from `main`. Custom domain `www.hillersee.com` is set at launch (step 3 below); until then the preview is https://hillersee.github.io/.
+Hosted free on GitHub Pages from `main`. Custom domain: `www.hillersee.com` (the `CNAME` file; set 2026-11-10 at launch).
 
 Design and copy by Elizabeth Mendoza (27 Colab), built from the prototype in `27colab-shared/hillers/site`
 (2026-11-09). Engineering, audits and deployment by Jesus Vasquez (27 Colab).
