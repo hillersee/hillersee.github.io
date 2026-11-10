@@ -25,7 +25,7 @@ Edit the HTML directly. Keep `width`/`height` on images. If a page is added, upd
 footer "Sheet E-n of N", and `sitemap.xml`.
 
 ## Launch checklist
-1. Swap in high-resolution logo and photos when the client sends them (keep filenames in `img/`), export WebP.
+1. Logo and photos are now the client's high-resolution files (2026-11-10: `hee-logo-color.tif` at 300 dpi, background knocked out; four site photos). Export WebP if page weight matters.
 2. GoDaddy DNS, web records only: `A` records for the apex → GitHub Pages (185.199.108.153, .109.153, .110.153,
    .111.153); `CNAME www` → `hillersee.github.io`. Do not touch MX, Mimecast, or `ftp.hillersee.com`.
 3. Add a `CNAME` file containing `www.hillersee.com` (or set the custom domain in Settings → Pages), then "Enforce HTTPS" once the certificate issues. Do this only after step 2, or the preview URL starts redirecting to a domain that is not pointed here yet.
