@@ -13,8 +13,7 @@ Design and copy by Elizabeth Mendoza (27 Colab), built from the prototype in `27
 | E-2 | `about.html` | About |
 | E-3 | `services.html` | Services (anchors `#power`, `#controls`, `#facilities`, `#project-services`) |
 | E-4 | `market-focus.html` | Market Focus — the 20 utilities and agencies |
-| E-5 | `projects.html` | Projects — CROC study, photo gallery |
-| E-6 | `contact.html` | Contact + Location (`#location`) |
+| E-5 | `contact.html` | Contact + Location (`#location`) |
 
 Also: `404.html`, `robots.txt`, `sitemap.xml`, `favicon.svg`, `img/og.jpg` (link preview), and four stubs for the
 old site's URLs (`index.htm`, `services.htm`, `offices.htm`, `contact.htm`) that forward to the new pages.
